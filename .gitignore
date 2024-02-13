@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# VS Code
+.vscode/
+*.code-workspace
+*.code-workspace-shm
+*.code-workspace-lock
+
+# IDE specific files
+*.idea/
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extension
+*.so
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignore local settings file
+local_settings.py
